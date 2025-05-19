@@ -1,8 +1,10 @@
 Index,Original Value,Updated Value,Status
-0,123,0,value changed
-1,45,0,value changed
-2,100,0,value changed
+0,123,6,value changed
+1,45,9,value changed
+2,100,1,value changed
 3,gdg,N/A,Value not applicable due to error: invalid literal for int() with base 10: 'gdg'
-4,5453,0,value changed
+4,5453,17,value changed
 5,a1,N/A,Value not applicable due to error: invalid literal for int() with base 10: 'a1'
-6,9000,0,value changed
+6,9000,9,value changed
+7,exp(12),70,value changed
+8,12.2,5,value changed
